@@ -1,10 +1,9 @@
 # jays-wp-htaccess
 
 
-<p align="center">
-![img](https://github.com/gaurav-101/htaccess/assets/82750742/0b7bb01e-9b0f-4570-8d72-0f770dc43a26)
 
-</p>
+![img](https://github.com/gaurav-101/htaccess/assets/82750742/6ec1e553-4276-4d18-aeff-c88d9b8f4f90)
+
 
 An .htaccess file that I use for various Wordpress websites to improve performance, security, and functionality.
 *Some* informal tests on *some* sites have seen them *appear* to double in speed instantly just by uploading this file to the website's root folder. **Your results may vary**. 
