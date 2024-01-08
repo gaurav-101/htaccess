@@ -2,7 +2,8 @@
 
 
 <p align="center">
-<img src="http://i.imgur.com/uqqPJPb.jpg" width="100%">
+![img](https://github.com/gaurav-101/htaccess/assets/82750742/0b7bb01e-9b0f-4570-8d72-0f770dc43a26)
+
 </p>
 
 An .htaccess file that I use for various Wordpress websites to improve performance, security, and functionality.
